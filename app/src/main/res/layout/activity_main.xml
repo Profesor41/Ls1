@@ -25,6 +25,7 @@
         android:layout_height="50dp"
         android:layout_marginTop="36dp"
         android:ems="10"
+        android:gravity="center"
         android:hint="введіть текст "
         android:inputType="text"
         app:layout_constraintEnd_toEndOf="parent"
